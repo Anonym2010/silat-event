@@ -1,0 +1,16 @@
+*.log
+.DS_Store
+Thumbs.db
+/.vscode/
+/.idea/
+
+/backend/.env
+/backend/.env.*
+!/backend/.env.example
+/backend/vendor/
+/backend/node_modules/
+/backend/public/build/
+/backend/public/hot
+/backend/storage/*.key
+/backend/database/*.sqlite*
+/backend/.phpunit.result.cache
